@@ -8,7 +8,7 @@ Changed the Normal background color and line numbers color to be slightly darker
 
 ## Installation
 1. Copy the *kalisi-extradark.vim* file into your vim colors directory.  
-    cp kalisi-extradark.vim ~/.config/nvim/colors/kalisi.vi
+    cp kalisi-extradark.vim ~/.config/nvim/colors/kalisi.vi  
 2. Add to your *.vimrc* file:  
-    colorscheme kalisi
+    colorscheme kalisi  
     set background=dark
