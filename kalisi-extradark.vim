@@ -196,7 +196,7 @@ if &background == "dark"
     hi ModeMsg cterm=bold ctermbg=148 ctermfg=16
     hi Cursor ctermbg=160 ctermfg=231
     hi CursorLineNr cterm=bold ctermbg=52 ctermfg=252
-    hi MatchParen ctermbg=112 ctermfg=234
+    hi MatchParen cterm=bold ctermbg=234 ctermfg=112
     hi Visual ctermbg=24
     hi VisualNOS ctermbg=239
     hi Pmenu ctermbg=236 ctermfg=249
